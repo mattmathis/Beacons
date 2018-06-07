@@ -1,7 +1,7 @@
 # Jupyter Notebooks
 
-- BeaconsMasterAnnotations.ipynb - Build master annotations DB.
-- etc
+The notebooks and other resource here were used to produce the figures in the paper:
+Mathis, M. "Measurement Lab Beacons" [Submitted to IMC 2018].
 
 ## Setup
 
@@ -23,12 +23,11 @@
 
 ## Notebooks
 
-* BeaconsMasterAnnotations.ipynb - Identify and label Beacons.
-* BeaconPopulationStatistics.ipynb - Population Statistics of the Beacons Themselves
-* IndividualBeaconsTimeSeries.ipynb - Individual Beacon's performance TimeSeries
-* PerformanceBucketTimeSeries.ipynb - Daily timeseries of continental scale performance statistics
-* RTTtimeSeries.ipynb - Daily timeseries of continental scale RTT statistics
-* MiscSmallQueries.ipynb - Summary statistics of the entire data set.
+* 180601BeaconsMasterAnnotations.ipynb - Identify and label beacons.
+* 180602BeaconPopulationStatistics.ipynb - Population statistics of the beacons themselves.
+* 180603IndividualBeaconsTimeSeries.ipynb - Data rate timeSeries for selected individual beacons.
+* 180604PerformanceBucketTimeSeries.ipynb - Daily timeseries of continental scale rate statistics.
+* 180605RTTtimeSeries.ipynb - Daily timeseries of continental scale RTT statistics.
 
 ## References
 
